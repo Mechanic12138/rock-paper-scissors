@@ -6,9 +6,9 @@ from aip import AipBodyAnalysis
 from threading import Thread
 import time
 
-APP_ID = '23770057'
-API_KEY = 'yBS9KF2erdE14vQIp63jYcVx'
-SECRET_KEY = 'h2OO2BccMS7fXy8CsORejxGXirs5vMVG'
+APP_ID = '*****'
+API_KEY = '*****'
+SECRET_KEY = '*****'
 
 
 def zlyb():
